@@ -29,9 +29,9 @@
 <footer>
   <h3>
     <div align="center">
-     <a href="" target="_blank"> Jogue Agora! </a>
+     <a href="https://jokenpo-yu-gi-oh-psi.vercel.app/" target="_blank"> Jogue Agora! </a>
   <h3>
-    <p> <img src="" alt="Imagem ilustrativa do jogo na versão mobile"> </p> 
-   </p> <img src="" alt="Imagem ilustrativa do jogo na versão Desktop"> </p> 
+    <p> <img src="https://github.com/Alxcostta/jokenpo-yu-gi-oh/blob/main/src/assets/images/versao-mobile.png" alt="Imagem ilustrativa do jogo na versão mobile"> </p> 
+   </p> <img src="https://github.com/Alxcostta/jokenpo-yu-gi-oh/blob/main/src/assets/images/versao-web.png" alt="Imagem ilustrativa do jogo na versão Desktop"> </p> 
     </div>
 </footer>
